@@ -1,0 +1,25 @@
+.GeneralContainer{background-color: white; font-style: inherit;}
+.Header{background-color: pink;}
+.LogoNav{display: flex; justify-content: space-between; padding: 0px 32px;
+    .LogoImg{width: 250px; padding: 10px 30px;}
+    .NavIcons{display: flex; justify-content: space-between; width: 900px;
+    .Nav4{display: flex; justify-content: space-between; width: 500px; align-items: center; font-style: unset; 
+    }
+    .Icons{align-content: center;width: 280px; padding: 2px 30px;}
+    .Icon1{margin: 0px 20px;}
+    .Icon2{margin: 0px 20px; height: 20px;}
+    .Icon3{margin: 0px 20px; height: 20px;}
+    .Icon4{margin: 0px 20px; height: 20px;}
+}
+}
+.Hero{height: 700px; width: 100%; background-image: url("Page 1/Images/scandinavian-interior-mockup-wall-decal-background 1.png");
+    .TextBox{
+        float: right; margin: 150px 60px; background-color: #FFF3E3; width: 550px; height: 400px;
+         padding: 20px 60px;
+        .H6{font-size: 12px; } .H2{ font-size: 48px;} .P{ font-size: 14px;} .Btn{ padding: 20px 60px; background-color: #B88E2F; color: #FFF3E3; border: 0px; margin: 50px 0px;}
+    }
+}
+.Range{background-color: violet;
+    .TextBox{background-color: orangered; width: 600px; margin-left: 500px; }
+}
+
