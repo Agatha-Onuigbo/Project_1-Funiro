@@ -19,7 +19,18 @@
         .H6{font-size: 12px; } .H2{ font-size: 48px;} .P{ font-size: 14px;} .Btn{ padding: 20px 60px; background-color: #B88E2F; color: #FFF3E3; border: 0px; margin: 50px 0px;}
     }
 }
-.Range{background-color: violet;
-    .TextBox{background-color: orangered; width: 600px; margin-left: 500px; }
+.Range{
+    .TextBox{width: 700px; margin-left: 400px; }
+    .H3{font-size: 32px; padding-top: 20px; text-align: center;}
+    .P{margin-top: -30px; font-size: 16px; text-align: center;}
 }
-
+.FourImgs{
+    display: flex; gap: 20px; justify-content: center; padding: 50px 0px;
+    .H4{font-size: 20px; text-align: center;}
+    .Bedroom{ border-radius: 10px;}
+}
+.Product{background-color: red; padding: 0px 90px;
+    .ImgGrp1{ display: flex; gap: 30px; background-color: midnightblue;}
+    .Img1{background-color: yellow; height: 450px;}
+    .Img{height: 250px; width: 250px; background-image: url("/Page 2/Images/image 1.jpg"); }
+}
